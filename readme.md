@@ -1,3 +1,4 @@
+```
 {
   "name": "ts-webpack-starter",
   "version": "1.0.0",
@@ -22,3 +23,4 @@
   "license": "ISC",
   "repository": "https://github.com/beingcompiled/typescript-webpack-starter.git"
 }
+```
