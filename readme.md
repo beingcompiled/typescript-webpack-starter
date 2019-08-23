@@ -21,7 +21,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "beingcompiled",
   "license": "ISC",
   "repository": "https://github.com/beingcompiled/typescript-webpack-starter.git"
 }
