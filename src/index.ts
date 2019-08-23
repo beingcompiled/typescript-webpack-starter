@@ -11,6 +11,6 @@ export class Hero {
     }
 }
 
-let hero = new Hero('foobar');
+let hero = new Hero('typescript webpack starter');
 
 document.getElementsByTagName('h1')[0].innerHTML = "hello " + hero.getName();
